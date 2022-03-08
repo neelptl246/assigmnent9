@@ -24,5 +24,5 @@ class result(exam):
     def display(self):
         return self.percentage
 
-s=result("Suman",1,500)
+s=result("neel",1,500)
 print(s.display())
